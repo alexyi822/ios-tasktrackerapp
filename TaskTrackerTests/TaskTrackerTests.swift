@@ -17,7 +17,7 @@ class TaskTrackerTests: XCTestCase {
         // MARK: TaskTracker Tests
     
     // Test to confirm that Task initialier returns when no name provided
-    func testMealInitialization() {
+    func testTaskInitialization() {
         // success case
         let potentialItem = Task(name: "New Task", comments: nil, priority: "Low")
         XCTAssertNotNil(potentialItem)
