@@ -1,4 +1,6 @@
 # ios-tasktrackerapp
 Simple task tracking application
 
-Made to familiarize myself with Swift language, basic UI building, view controllers, table views, navigation
+-basic UI building, view controllers, table views, navigation
+
+-can set priority, due date, add comments
